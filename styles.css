@@ -64,6 +64,9 @@ body{
     font-size: 8em;
     display: none;
 }
+.hover{
+    transition : all 2s;
+}
 .hover:hover{
     transform : scale(1.2);
 }
