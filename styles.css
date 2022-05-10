@@ -64,7 +64,9 @@ body{
     font-size: 8em;
     display: none;
 }
-
+.hover:hover{
+    transform : scale(1.2);
+}
 @keyframes body {
     100%{
         background:linear-gradient(to left, 
